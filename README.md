@@ -1,6 +1,8 @@
 # Subnet overlaps
 
-Tool has been build to help two Enterprise companies to merge and avoid overlapping IP-ranges by NAT-int on 6 different routers for redundancy. 
+Tool has been build to help two Enterprise companies to merge and avoid overlapping IP-ranges by NAT-int on several routers for redundancy. 
+
+Reference to enterprise made due to routing table on core routers should have all prefixes in a single VRF vs service provider network where different technology may hide actual routing table (for example MPLS). For VRF-lite environment same process should repeat for each pair of merging VRF-s.
 
 ## How it works
 
