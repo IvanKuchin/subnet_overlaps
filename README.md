@@ -44,6 +44,10 @@ Here is the screenshot produced by the yEd against included example.
 
 ![image](https://user-images.githubusercontent.com/26530162/113604660-939cbd80-9613-11eb-9631-a88d515898e0.png)
 
+## Speed
+
+Script is not optimized for speed, be patient in case of long routing tables. For example: if both companies has ~20K prefixes then script will work ~15 minutes.
+
 
 ## Example
 
