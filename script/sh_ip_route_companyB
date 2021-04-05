@@ -1,0 +1,7 @@
+O    10.10.246.32/30, ubest/mbest: 1/0
+O    10.10.246.0/28, ubest/mbest: 1/0
+O    10.10.246.36/30, ubest/mbest: 1/0
+O   192.168.50.0/24 via xx.xx.xx.xx 
+O IA    10.110.27.0/24 
+           [110/30] via 10.29.252.81, 00:00:17, TenGigabitEthernet9/3
+           [110/30] via 10.29.252.65, 00:00:17, TenGigabitEthernet9/1

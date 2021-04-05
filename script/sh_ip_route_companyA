@@ -1,0 +1,5 @@
+C       10.10.246.0/23 is directly connected, Vlan197
+O 192.168.50.132/30, ubest/mbest: 1/0, attached
+C       10.11.248.0/22 is directly connected, Vlan459
+O 10.110.27.0/24, ubest/mbest: 1/0
+
